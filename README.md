@@ -10,12 +10,15 @@
 🚧*Creating alias for use in terminal* 🚧
 
 |alias|command|
-|-----|-------|
-|bootcamp|~/Code/el-mundo-de-markdown|
+|----------|---------------------------------------|
+|bootcamp  |~/Code/el-mundo-de-markdown            |
 |actualizar|sudo apt-get update && sudo apt upgrade|
-|status|git status|
+|status    |git status                             |
 
-
-
-
+🚧*Most used command in terminal*
+|command|description|
+|-------------------|
+|ls||
+|pwd|
+|cd||
 
