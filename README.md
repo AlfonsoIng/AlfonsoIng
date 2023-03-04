@@ -16,6 +16,7 @@
 |status    |git status                             |
 
 🚧*Most used command in terminal*
+
 |command|description|
 |-------------------|
 |ls||
