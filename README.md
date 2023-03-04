@@ -24,3 +24,9 @@
 |pwd     |Print Working Directory. It prints the path of the working directory.|
 |cd      |Change directory command.                           |
 |clear   |used to clear the terminal screen.|
+
+### Social media
+
+### Github: *<https://github.com/AlfonsoIng>*
+
+### Linkeid: *<https://www.linkedin.com/in/alfonso-tovar-78b442b6/>*
