@@ -24,4 +24,3 @@
 |ls      |List files or directories from the CLI.                              |
 |pwd     |Print Working Directory. It prints the path of the working directory.|
 |cd      |Change directory command.                                            |
-
