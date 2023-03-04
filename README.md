@@ -15,7 +15,9 @@
 |actualizar|sudo apt-get update && sudo apt upgrade|
 |status    |git status                             |
 
+
 🚧*Most used command in terminal*
+
 
 |Command|Description                                                     |
 |------------------------------------------------------------------------|
